@@ -2,8 +2,9 @@
 
 // For use by Makarov Applications
 
-#include <stdio.h>
+
 #include "Makarov/Application.h"
+#include "Makarov/Log.h"
 
 
 // -----Entry Point -----------------

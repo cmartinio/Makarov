@@ -1,0 +1,3 @@
+[submodule "Makarov/vendor/spdlog"]
+	path = Makarov/vendor/spdlog
+	url = https://github.com/gabime/spdlog
