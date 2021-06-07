@@ -18,3 +18,8 @@ namespace Makarov {
 	}
 
 }
+/*
+I have not touched the game engine in a very long time,
+but now i have some free time to give it my full attention.
+
+*/
